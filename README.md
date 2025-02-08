@@ -1,1 +1,1 @@
-# practice-data-science-code
+# practice code
